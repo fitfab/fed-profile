@@ -22,3 +22,9 @@ JS
 * Implement the singleton pattern with one public method **init**
 
 * The **init** method should call a private method **bindEvents**, which will bound click events to links and header
+
+**The required functionality:**
+
+* When click on the link update the header with the link text
+
+* When click on the header reset its text with "Front End Profile"
