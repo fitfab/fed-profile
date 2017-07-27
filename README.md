@@ -36,4 +36,4 @@ JS
 
 ***Submit your work***
 
-When you are done with the test, please submit your your branch(the name of the branch should be your first name and last name) via a Pull Request.
+When you are done with the test, please submit it via a Pull Request. The branch name should be your first name and last name.
