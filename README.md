@@ -1,9 +1,13 @@
 **Front End Profile**
 
+Allocate **2 Hours** for this test.
+
 ```
 git clone https://github.com/fitfab/fed-profile.git
 
 cd fed-profile
+
+git checkout -b firstName-lastName
 
 npm install
 
@@ -28,3 +32,8 @@ JS
 * When clicking on the link update the header with the link text
 
 * When clicking on the header reset its text to "Front End Profile"
+
+
+***Submit your work***
+
+When you are done with the test, please submit your your branch(the name of the branch should be your first name and last name) via a Pull Request.
